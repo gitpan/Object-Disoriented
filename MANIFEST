@@ -1,0 +1,7 @@
+MANIFEST
+Makefile.PL
+lib/Object/Disoriented.pm
+t/01_basic.t
+t/lib/DA.pm
+t/lib/EN.pm
+META.yml                                 Module meta-data (added by MakeMaker)
