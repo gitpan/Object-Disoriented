@@ -3,7 +3,7 @@ package Object::Disoriented;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Carp qw<croak>;
 
@@ -92,5 +92,17 @@ use Object::Disoriented more than once:
 =head1 SEE ALSO
 
 L<HTML::Fraction>, L<CGI::Simple>
+
+=head1 AUTHOR
+
+Aaron Crane E<lt>arc@cpan.orgE<gt>
+
+=head1 COPYRIGHT
+
+Copyright 2008 Aaron Crane.
+
+This library is free software; you can redistribute it and/or modify it under
+the terms of the Artistic License, or (at your option) under the terms of the
+GNU General Public License version 2.
 
 =cut
